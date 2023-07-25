@@ -9,6 +9,7 @@ SearchPageTest : which includes
      & validate different search suggestions at the end of the page.
 
 ## Installation
+Import the project as a maven project.
 The Dependencies are added to the pom.xml file 
 you need to make sure to open pom.xml file 
 and Click the Maven icon in the top-right 
