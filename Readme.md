@@ -9,11 +9,16 @@ SearchPageTest : which includes
      & validate different search suggestions at the end of the page.
 
 ## Installation
-Import the project as a maven project.
-The Dependencies are added to the pom.xml file 
+(The Project was made on IntelliJ IDE)
+1.Import the project as a maven project.
+2. In the project files go to src/main/java right click on the java folder and choose 
+mark directory as Sources Root.
+3.In the project files go to src/test/java right click on the java folder and choose 
+mark directory as Test Sources Root.
+4. The Dependencies are added to the pom.xml file 
 you need to make sure to open pom.xml file 
 and Click the Maven icon in the top-right 
-to ensure that IntelliJ IDEA loads the changes.
+to ensure that IntelliJ IDEA add the dependences and load the changes.
 
 ## Running
 you just need to run the testing.xml file
